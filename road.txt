@@ -1,0 +1,10 @@
+Todos site:
+Home page -> Assignments and due dates
+          -> Todays todo's
+
+Want to cover:
+Routing
+Components (class only)
+Cover state
+Cover component life cycle
+Cover props
